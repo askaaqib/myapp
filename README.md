@@ -1,2 +1,5 @@
+:boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom:  
 # MyApp
-This is m
+This is my Simple MyApp Application :smirk: 
+
+:boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: 
