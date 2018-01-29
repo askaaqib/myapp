@@ -1,2 +1,2 @@
-#MyApp
-This is My App
+Project Name: My App
+Description: This is My Description
